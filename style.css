@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color: floralwhite;
+}
+p{
+    text-align: center;
+    color: cornsilk;
+}
+button{
+    text-align: center;
+    background-color: tomato;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(70, 238, 230), rgb(47, 196, 241));
+}
+.banner{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px;
+    
+}
