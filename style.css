@@ -3,7 +3,7 @@ body{
     margin: 0%;
     padding: 0%;
 }
-h1{
+.h1{
     text-align: center;
     color: floralwhite;
 }
@@ -11,7 +11,7 @@ p{
     text-align: center;
     color: cornsilk;
 }
-button{
+.donate{
     text-align: center;
     background-color: tomato;
     padding: 10px 10px;
@@ -22,6 +22,75 @@ button{
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 120px;
-    
+    padding: 70px;   
+}
+.header{
+    text-align: center;
+    color: black;
+  
+}
+.d-today{
+    font-size: 40px;
+}
+.second-p{
+    color: black;
+    text-align: center;
+}
+.button-section{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    margin: 2px;
+    padding: 10px;
+}
+.border{
+    border: 2px solid whitesmoke;
+    padding: 20px 20px;
+}
+.second-money{
+    background-color: rgba(176, 192, 188, 0.781);
+    color: rgba(189, 48, 48, 0.733);
+     border-radius: 5px;
+     border: 2px solid rgb(194, 80, 80);
+}
+.input{
+border-left: none;
+border-right: none;
+border-top: none;
+margin: 20px 20px;
+}
+.second-donate{
+    background-color: tomato;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(70, 238, 230), rgb(47, 196, 241));
+    margin: 10px 10px;
+}
+.d-plane{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 40px;
+}
+.plane-description{
+    color: black;
+}
+.d-plane-type{
+    display: flex;
+    justify-content: space-evenly;;
+    padding: 20px 20px;
+    margin: 2px;
+  
+}
+.border-dp{
+    border: 2px solid whitesmoke;
+    padding: 20px 20px;
+}
+.one{
+    background-color: beige;
+}
+.two{
+    background-color: bisque;
+}
+.three{
+    background-color: blanchedalmond;
 }
