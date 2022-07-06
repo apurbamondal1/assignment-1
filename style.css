@@ -94,3 +94,74 @@ margin: 20px 20px;
 .three{
     background-color: blanchedalmond;
 }
+.d-f{
+    font-size: 40px;
+}
+.rupee{
+    color: aqua;
+    margin: 20px%;
+    padding: 10px 10px 10px;
+}
+.dollar{
+   color: aquamarine;
+   margin: 20px%;
+   padding: 10px 10px 10px
+}
+.Taka{
+color: tomato;
+margin: 20px%;
+padding: 10px 10px 10px
+}
+.new{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+.d-f-button{
+    padding: 10px 10px;
+    background-color: greenyellow;
+}
+.g-m{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+}
+.g-m-p{
+    color: rgb(14, 13, 13);
+    padding-bottom: 40px;
+}
+.box{
+text-align: center;
+background-color: burlywood;
+padding: 50px;
+margin: 60px;
+margin-top: 0px;
+margin-left: 200px;
+margin-right: 200px;
+}
+.s-button{
+    background-color: rgb(241, 24, 24);
+    margin: 10px;
+    padding: 10px 10px;
+   margin-left: 0%;
+   color aliceblue
+}
+.last-input{
+    margin: 10px;
+    padding: 10px 10px;
+   margin-right: 0%;
+   border-radius: 5px 5px 5px 5px;   
+}
+.footer{
+    text-align: center;
+    background-color: rgb(12, 11, 11);
+    padding: 20px;
+}
+.be{
+    color: rgba(182, 118, 118, 0.63);
+}
+.do-it{
+    color: beige;
+}
+
