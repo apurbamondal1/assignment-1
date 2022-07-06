@@ -99,18 +99,18 @@ margin: 20px 20px;
 }
 .rupee{
     color: aqua;
-    margin: 20px%;
+    margin: 20px;
     padding: 10px 10px 10px;
 }
 .dollar{
    color: aquamarine;
-   margin: 20px%;
-   padding: 10px 10px 10px
+   margin: 20px;
+   padding: 10px 10px 10px;
 }
 .Taka{
 color: tomato;
-margin: 20px%;
-padding: 10px 10px 10px
+margin: 20px;
+padding: 10px 10px 10px;
 }
 .new{
     background-image: url(images/donation9.jpg);
@@ -145,12 +145,12 @@ margin-right: 200px;
     margin: 10px;
     padding: 10px 10px;
    margin-left: 0%;
-   color aliceblue
+   color: aliceblue;
 }
 .last-input{
     margin: 10px;
     padding: 10px 10px;
-   margin-right: 0%;
+   margin-right: 0px;
    border-radius: 5px 5px 5px 5px;   
 }
 .footer{
